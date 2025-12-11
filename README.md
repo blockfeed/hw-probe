@@ -47,4 +47,4 @@ sudo -E python3 hw_probe.py --sudo --deep --json /tmp/hw.json
 
 ## License
 
-MIT
+GPLv3
